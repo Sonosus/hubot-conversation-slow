@@ -1,7 +1,7 @@
 {
   "name": "hubot-conversation",
   "version": "1.1.0",
-  "description": "A utility for having conversation sessions with Hubot",
+  "description": "A utility for having conversation sessions with Hubot, with a longer timeout.",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
